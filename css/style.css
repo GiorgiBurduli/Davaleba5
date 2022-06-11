@@ -1,0 +1,125 @@
+.container {
+	width: 1170px;
+	margin: 0 auto;
+}
+body {
+	background-color: #F6F8F9;
+}
+
+.logo {
+	display: inline-block;
+	font-family: 'Rubik', sans-serif;
+	font-size: 13px;
+	color: #FA6980;
+	vertical-align: middle;
+	margin-top: 18px;
+	margin-left: 20px;
+	margin-right: 92px;
+}
+
+.ul1 {
+	margin-top: 20px;
+	margin-right: 40px;
+	list-style-type: none;
+	display: inline-block;
+	font-family: 'Rubik', sans-serif;
+	font-size: 11px;
+	vertical-align: middle;
+}
+
+.nav1 {
+	display: inline-block;
+}
+
+li {
+	display: inline-block;
+	vertical-align: top;
+}
+
+.home {
+	margin-right: 27px;
+	color: #343638;
+}
+.disc {
+	margin-right: 22px;
+	color: #343638;
+	opacity: 50%;
+}
+.photos {
+	margin-right: 22px;
+	color: #343638;
+	opacity: 50%;
+}
+.cont {
+	color: #343638;
+	opacity: 50%;
+}
+
+.header {
+	height: 50px;
+	margin-bottom: 25px;
+}
+
+.girl {
+	vertical-align: middle;
+}
+
+.cont1 {
+	position: relative;
+	width: 1160px;
+	height: 350px;
+	display: flex;
+	justify-content: space-between;
+}
+
+h2 {
+	font-family: 'Rubik', sans-serif;
+	color: black;
+	font-size: 24px;
+	margin-bottom: 40px;
+}
+
+.card1 {
+	width: 360px;
+}
+
+.card2 {
+	width: 360px;
+	position: relative;
+}
+
+.card3 {
+	width: 360px;
+	position: relative;
+}
+
+.card1h3 {
+	position: absolute;
+	top: 28px;
+	left: 40px;
+	font-family: 'Rubik', sans-serif;
+	color: white;
+	font-size: 16px;
+}
+
+.sp1 {
+	position: absolute;
+	bottom: 66px;
+	left: 40px;
+	font-family: 'Rubik', sans-serif;
+	font-size: 13px;
+	color: #A6ADB4;
+	height: 38px;
+
+}
+
+.sp2 {
+	color: #A6ADB4;
+	position: absolute;
+	height: 16px;
+	bottom: 40px;
+	left: 40px;
+	font-family: 'Rubik', sans-serif;
+	font-size: 13px;
+
+}
